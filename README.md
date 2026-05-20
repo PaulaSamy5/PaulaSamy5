@@ -126,7 +126,7 @@ https://github.com/PaulaSamy5/BakeryAIS-DesktopProject
 ## 📫 Connect With Me
 
 🌐 Portfolio:
-https://paulasamy5.github.io/myportfolio/
+https://paulasamy5.github.io/MyPortfolio/
 
 💼 LinkedIn:
 https://www.linkedin.com/in/paula-samy-5097a2266
