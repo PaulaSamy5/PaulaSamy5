@@ -117,7 +117,7 @@ https://github.com/PaulaSamy5/BakeryAIS-DesktopProject
 
 ## 📊 GitHub Stats
 
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulaSamy5&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulaSamy5&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaSamy5&layout=compact&theme=tokyonight)
 
